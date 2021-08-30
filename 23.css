@@ -1,0 +1,38 @@
+.header-btn
+{
+
+background-image: url(قران.jpg);
+background-color: aqua;
+
+}
+.btn{
+    background-color: rgb(255, 255, 255);
+    padding: 2%;
+    margin-top: 1em;
+}
+
+.img-size{
+    width: 30em;
+    height: 65em;
+
+}
+.font-size{
+    font-size: xx-large;
+    
+    
+}
+
+.footer{
+    font-size: xx-large;
+    margin-top: 5em;
+    margin-left: 22em;
+    
+    
+
+    
+}
+
+:hover{
+    color: royalblue;
+}
+
